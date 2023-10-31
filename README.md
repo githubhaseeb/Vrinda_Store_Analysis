@@ -5,6 +5,9 @@ The Vrinda Store Excel Analysis Project is a comprehensive data analysis project
 a retail business. This project aims to provide valuable insights into the store's sales performance, customer behavior, and product trends,
 facilitating informed decision-making and strategic planning.
 
+## Tools
+- Excel
+
 ## Key Features
 - Detailed analysis of sales data, including product sales, revenue, and customer demographics.
 - Visualization of sales trends over time, highlighting peak seasons and identifying areas for potential growth.
