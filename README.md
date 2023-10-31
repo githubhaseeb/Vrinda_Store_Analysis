@@ -21,3 +21,4 @@ facilitating informed decision-making and strategic planning.
  - Integration of additional data sources to gain a more comprehensive understanding of customer behavior and market trends.
  - Automation of data analysis processes to streamline reporting and decision-making.
 ## Dashboard
+![Vrinda_sales_Analysis](https://github.com/githubhaseeb/Vrinda_Store_Analysis/assets/98270092/a7b42cf1-d1cb-442a-a76b-bc357146495d)
